@@ -1,7 +1,6 @@
 body {
-  background-color: #657383; /*warna kuning cerah*/
-  font-family: Arial, sans-serif;/*jenis huruf*/
-  color: #191970; /*warna teks utama biru gelap*/
+  background-color: blue;
+  font-family:"Times New Roman", Times, serif;
 }
 
 .kartu-profil {
