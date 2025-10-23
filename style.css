@@ -1,5 +1,5 @@
 body {
-  background-color: #FFFFE0; /*warna kuning cerah*/
+  background-color: #657383; /*warna kuning cerah*/
   font-family: Arial, sans-serif;/*jenis huruf*/
   color: #191970; /*warna teks utama biru gelap*/
 }
@@ -15,5 +15,5 @@ body {
 }
 .kartu-profil img {
   width; 150px;
-  border-radius; 50%: /*trick untuk mengubah persegi menjadi lingkaran*/
+  border-radius: 50%; /*trick untuk mengubah persegi menjadi lingkaran*/
 }
